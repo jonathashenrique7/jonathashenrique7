@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 #### 
 
-<!--
-**jonathashenrique7/jonathashenrique7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  😄 I’m currently working on a personal finance app.
+-  📚 I’m currently learning Next.js.
+-  💰 I’m looking for help with React.js 
+-  🌎 Be welcome friends!!!!!!!
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=radical) - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathashenrique7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  <a href="https://instagram.com/jonathashenrique7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/jonathashenriquepocidonio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+
+<div>
+  <h1 align="center">Olá! Tudo bem? 😃️</h1>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, estudo Desenvolvimento Web na <a href="https://tipscode.com.br/"><i>Tips Code</i></a>.
+</div>
