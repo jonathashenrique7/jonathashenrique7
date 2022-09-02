@@ -16,5 +16,5 @@
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, estudo Desenvolvimento Web na <a href="https://tipscode.com.br/"><i>Tips Code</i></a>.
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, sou apaixonado por Desenvolvimento Web!</h2>.
 </div>
