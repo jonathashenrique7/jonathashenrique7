@@ -1,7 +1,7 @@
 ### Hi there 👋 #### 
 
 -  😄 I’m currently working on a personal finance app.
--  📚 I’m currently learning Nuxt.js.
+-  📚 I'm fascinated with Nuxt.js!
 -  💰 I’m looking for help with Vue.js 3 
 -  🌎 Be welcome friends!!!!!!!
 
@@ -10,7 +10,7 @@
 
 
 
-  <a href="https://instagram.com/jonathashenrique7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jonathas_henrique_7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jonathashenriquepocidonio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 
