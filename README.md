@@ -1,8 +1,8 @@
 ### Hi there 👋 #### 
 
 -  😄 I’m currently working on a personal finance app.
--  📚 I'm fascinated with Nuxt.js!
--  💰 I’m looking for help with Vue.js 3 
+-  📚 I'm fascinated with Next.js!
+-  💰 I’m looking for help with TypeScript 
 -  🌎 Be welcome friends!!!!!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=radical) - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathashenrique7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
