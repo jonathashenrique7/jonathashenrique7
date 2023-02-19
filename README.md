@@ -1,7 +1,7 @@
 ### Hi there 👋 #### 
 
 -  😄 I’m currently working on a personal finance app.
--  📚 I'm fascinated with Next.js!
+-  📚 I'm fascinated with Shell Script!
 -  💰 I’m looking for help with TypeScript 
 -  🌎 Be welcome friends!!!!!!!
 
