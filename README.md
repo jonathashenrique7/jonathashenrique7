@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://t.me/JonathasPocidonio" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%1ED760?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
 
 
