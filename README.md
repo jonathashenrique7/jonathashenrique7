@@ -10,8 +10,12 @@
 -  🌎 Be welcome friends!!!!!!!
 
 
-  <a href="https://www.instagram.com/grinn7code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/JonathasPocidonio" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23E5305F?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/grinn7code/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://t.me/JonathasPocidonio" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%330F63?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
 
 
 <div>
