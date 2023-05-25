@@ -14,6 +14,8 @@
  	<a href="https://t.me/JonathasPocidonio" target="_blank"><img src="https://img.shields.io/badge/Telegram-9146FF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 
+https://img.shields.io/static/v1?label=<LABEL>&https://t.me/JonathasPocidonio=<Telegram>&color=<brightgreen>
+
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Me chamo <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, sou pós-graduando em Ciência de Dados!</h2>.
