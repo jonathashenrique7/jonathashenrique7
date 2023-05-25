@@ -13,8 +13,8 @@
   <a href="https://www.instagram.com/grinn7code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://t.me/JonathasPocidonio" target="_blank"><img src="https://img.shields.io/badge/Telegram-9146FF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
+ 	<a href="https://t.me/JonathasPocidonio" target="_blank"><img src="" target="_blank"></a>
 
-https://img.shields.io/static/v1?label=<LABEL>&https://t.me/JonathasPocidonio=<Telegram>&color=<brightgreen>
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
