@@ -1,8 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7)
-
-![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7)
+![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) ![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7)
 
 ### Hi there 👋 #### 
 
@@ -19,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Telegram-%FF0000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
