@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) ![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7)
+![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7) ![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) 
 
 ### Hi there 👋 #### 
 
@@ -22,4 +22,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=merko)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=tokyonight)
