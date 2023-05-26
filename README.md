@@ -14,6 +14,8 @@
   <a href="https://t.me/JonathasPocidonio" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%FF0000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
