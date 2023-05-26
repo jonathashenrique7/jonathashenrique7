@@ -15,9 +15,10 @@
     <img src="https://img.shields.io/badge/-Telegram-%FF0000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Me chamo <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, sou pós-graduando em Ciência de Dados!</h2>.
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
+
