@@ -8,16 +8,13 @@
 -  🌎 Be welcome friends!!!!!!!
 
 
-  <a href="https://www.instagram.com/grinn7code/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://t.me/JonathasPocidonio" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%FF0000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a><br />
+<a href="https://www.instagram.com/grinn7code/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://t.me/JonathasPocidonio" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-%FF0000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+</a><br />
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
