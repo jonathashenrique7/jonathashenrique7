@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7)
 
 ![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7)
