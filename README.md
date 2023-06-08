@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://t.me/JonathasPocidonio" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-%990000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-%660000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 </a><br />
 
 <div>
