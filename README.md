@@ -3,7 +3,7 @@
 ### Hi there 👋 #### 
 
 -  😄 I’m currently working on a personal finance app.
--  📚 I'm fascinated with Python programming languages!
+-  📚 I'm fascinated with Python programming language!
 -  💰 I’m looking for help with Julia and Nim programming languages.  
 -  🌎 Be welcome friends!!!!!!!
 
