@@ -3,8 +3,8 @@
 ### Hi there 👋 #### 
 
 -  😄 I’m currently working on a personal finance app.
--  📚 I'm fascinated with Shell Script and Python programming languages!
--  💰 I’m looking for help with Mojo 
+-  📚 I'm fascinated with Python programming languages!
+-  💰 I’m looking for help with Julia and Nim programming languages.  
 -  🌎 Be welcome friends!!!!!!!
 
 
