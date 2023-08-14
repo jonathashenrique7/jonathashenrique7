@@ -4,7 +4,7 @@
 
 -  😄 I’m currently working on a personal finance app.
 -  📚 I'm fascinated with Python programming language!
--  💰 I’m looking for help with Julia programming languages.  
+-  💰 I’m looking for help with Julia programming language.  
 -  🌎 Be welcome friends!!!!!!!
 
 
