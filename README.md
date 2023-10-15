@@ -16,7 +16,7 @@
 
 <div>
   <h1 align="center">Hello! How are you? 😃️</h1>
-  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas Henrique</i></a>, and I am a postgraduate student in Data Science!</h2>.
+  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=merko)
