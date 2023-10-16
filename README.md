@@ -8,8 +8,8 @@
 -  🌎 Be welcome friends!!!!!!!
 
 
-<a href="https://www.instagram.com/grinn7code/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%340F63?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
 <br />
