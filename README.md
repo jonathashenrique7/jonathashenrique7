@@ -8,7 +8,7 @@
 -  🌎 Be welcome friends!!!!!!!
 
 
-<a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 
@@ -16,7 +16,7 @@
 
 <div>
   <h1 align="center">Hello! How are you? 😃️</h1>
-  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-2256b3245/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
+  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=merko)
