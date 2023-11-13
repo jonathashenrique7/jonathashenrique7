@@ -19,6 +19,4 @@
   <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathashenrique7&show_icons=true&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathashenrique7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
