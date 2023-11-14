@@ -2,9 +2,9 @@
 
 ### Hi there 👋 #### 
 
--  😄 I’m currently working on a personal web app.
+-  💰 I’m currently working on a personal web app.
 -  📚 I'm fascinated with Python programming language!
--  💰 I’m looking for help with Julia programming language.  
+-  😄 I’m looking for help with Julia programming language.  
 -  🌎 Be welcome friends!!!!!!!
 
 
