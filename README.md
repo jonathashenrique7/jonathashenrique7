@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/jonathashenrique7/jonathashenrique7) ![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) 
+![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) 
 
 ### Hi there 👋 #### 
 
