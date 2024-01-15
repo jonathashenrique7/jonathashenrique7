@@ -52,7 +52,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![Mint](https://img.shields.io/badge/Mint-E95420?style=for-the-badge&logo=mint&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Atom](https://img.shields.io/badge/Atom-E44C30?style=for-the-badge&logo=atom&logoColor=white)&nbsp;
 
 &nbsp;
