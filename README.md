@@ -13,7 +13,7 @@
   <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
 </div>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I solve great challenges using tech. <br><br> From backend development using Node.JS to frontend development using Next.JS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jonathashenrique7&theme=radical&mode=weekly" />
