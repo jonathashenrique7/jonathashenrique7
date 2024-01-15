@@ -7,13 +7,9 @@
 -  😄 I’m looking for help with Julia programming language.  
 -  🌎 Be welcome friends!!!!!!!
 
-
-
-
 <br />
 
 <div>
-  <h1 align="center">Hello! How are you? 😃️</h1>
   <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
 </div>
 
