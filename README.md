@@ -40,7 +40,7 @@
 #### Studying in this moment:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/linux-4285F4?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 #### Databases:
 
