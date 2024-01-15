@@ -40,7 +40,8 @@
 #### Studying in this moment:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/linux-4285F4?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=dockerx&logoColor=white)&nbsp;
+![Remix.js](https://img.shields.io/badge/Remix-4285F4?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
 
 #### Databases:
 
