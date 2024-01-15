@@ -39,7 +39,7 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-%340F63?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Remix.js](https://img.shields.io/badge/Remix-4285F4?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
 
@@ -47,7 +47,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-%340F63?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
