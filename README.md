@@ -9,7 +9,7 @@
 <br />
 
 <div>
-  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I am a postgraduate student in Data Science!</h2>.
+  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I hold a postgraduate degree in data science!</h2>.
 </div>
 
 <p align="center">From backend development using Node.JS to frontend development using Next.JS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
