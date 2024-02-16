@@ -9,7 +9,7 @@
 <br />
 
 <div>
-  <h2 align="center">My name is <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>Jonathas</i></a> and I hold a postgraduate degree in data science!</h2>.
+  <h2 align="center">Hey everyone, <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>I'm Jonathas, </i></a> and I work with data science after my graduate studies.</h2>.
 </div>
 
 <p align="center">I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br /> Today, I'm a <strong>mid-level developer</strong> focused on data science and web development.</p>&nbsp;
