@@ -9,7 +9,7 @@
 <br />
 
 <div>
-  <h2 align="center">Hey everyone, <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>I'm Jonathas, </i></a> a data scientist with a postgraduate degree. I'm passionate about using programming languages to solve complex problems.</h2>.
+  <h2 align="center">Hey everyone! <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>I'm Jonathas, </i></a> a data scientist with a postgraduate degree. <br /> I'm passionate about using programming languages to solve complex problems.</h2>.
 </div>
 
 <p align="center">I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br /> Today, I'm a <strong>mid-level developer</strong> focused on data science and web development.</p>&nbsp;
