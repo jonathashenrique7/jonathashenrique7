@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) 
+![GitHub](https://img.shields.io/github/MIT/jonathashenrique7/jonathashenrique7) 
 
 ### Hi there 👋 #### 
 
