@@ -54,7 +54,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Atom](https://img.shields.io/badge/Atom-%340F63?style=for-the-badge&logo=atom&logoColor=white)&nbsp;
 
-![PowerBI](https://img.shields.io/badge/PowerBI-%340F63?style=for-the-badge&logo=atom&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-%340F63?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
