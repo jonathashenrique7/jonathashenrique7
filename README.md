@@ -44,12 +44,12 @@
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-470137?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF3366?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-4053D6?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-FFB387?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/visualstudiocode-0054F7?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/Discord-FFB387?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-161637?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E44C30?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-DDE072?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 
