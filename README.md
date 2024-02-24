@@ -37,7 +37,7 @@
 #### Studying in this moment:
 
 ![AWS](https://img.shields.io/badge/AWS-%340F63?style=for-the-badge&logo=aws-cloud&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-1287B1?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Remix.js](https://img.shields.io/badge/Remix-%23333?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
 
 #### Databases:
