@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/jonathashenrique7/jonathashenrique7) 
-https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
+![GitHub](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 ### Hi there 👋 #### 
 
