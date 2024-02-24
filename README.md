@@ -38,7 +38,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%340F63?style=for-the-badge&logo=aws-cloud&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-6933FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Remix.js](https://img.shields.io/badge/Remix-%FFB387?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
+![Remix.js](https://img.shields.io/badge/Remix-FFB387?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
 
 #### Databases:
 
