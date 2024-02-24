@@ -44,7 +44,7 @@
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-470137?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF3366?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-FFB387?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-161637?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
