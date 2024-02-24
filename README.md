@@ -48,7 +48,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-203759?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E44C30?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-DDE072?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
