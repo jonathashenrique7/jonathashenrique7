@@ -44,7 +44,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4053D6?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
