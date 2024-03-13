@@ -39,10 +39,10 @@
 ![AWS](https://img.shields.io/badge/AWS-%340F63?style=for-the-badge&logo=aws-cloud&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-6933FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Remix.js](https://img.shields.io/badge/Remix-%23DD0031.svg?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/Neo4j-470137?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 
 #### Databases:
 
-![Neo4j](https://img.shields.io/badge/Neo4j-470137?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF3366?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-161637?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
