@@ -33,12 +33,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
-
-![Docker](https://img.shields.io/badge/Docker-6933FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Remix.js](https://img.shields.io/badge/Remix-%23DD0031.svg?style=for-the-badge&logo=remix&logoColor=white)&nbsp;
-![Neo4j](https://img.shields.io/badge/Neo4j-470137?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
-
 #### Databases:
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF3366?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
