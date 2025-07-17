@@ -50,7 +50,7 @@
 
 ## Contacts:
 
-<a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathas-henrique-04ba2127b/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
   
