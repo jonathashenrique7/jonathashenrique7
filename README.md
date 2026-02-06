@@ -25,9 +25,9 @@
 
 #### Main Stack:
 
-![R](https://img.shields.io/badge/R-5C5543?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/R-5C5543?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![DAX](https://img.shields.io/badge/DAX-%340F63?style=for-the-badge&logo=dax&logoColor=white)&nbsp;
+![Cypher](https://img.shields.io/badge/DAX-%340F63?style=for-the-badge&logo=dax&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
