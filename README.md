@@ -3,7 +3,7 @@
 ### Hi there 👋 #### 
 
 -  💰 I’m currently working on a personal web app.
--  📚 I’m looking for help with Julia programming language.  
+-  📚 I’m looking for help with Cypher programming language.  
 -  🌎 Be welcome friends!!!!!!!
 
 <br />
