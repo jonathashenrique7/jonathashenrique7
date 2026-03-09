@@ -51,8 +51,8 @@
 
 ## Contacts:
 
-<a href="https://www.linkedin.com/in/jonathas-henrique-04ba2127b/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathas-pocidonio-6543433a1/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%340F63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-  
-<a href = "mailto:grinncode@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:jonathas.henrique@protonmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
