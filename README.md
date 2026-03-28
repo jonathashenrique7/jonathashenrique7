@@ -11,12 +11,6 @@
 <div>
   <h2 align="center">Hey everyone! <a href="https://www.linkedin.com/in/jonathas-henrique-pocidonio-04ba2127b/"><i>I'm Jonathas, </i></a> a data scientist with a postgraduate degree. I am driven by a deep enthusiasm for using programming languages to overcome complex challenges.</h2>.
 </div>
-
-<p align="center">I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br /> Today, I'm a <strong>mid-level developer</strong> focused on data science and web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jonathashenrique7&show_icons=true&theme=radical&layout=compact" />
-</div>
  
  &nbsp;
  &nbsp;
